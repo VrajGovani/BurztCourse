@@ -1,0 +1,77 @@
+#navbar{
+    text-align: center;
+}
+#signin-box{
+    margin-top: 4rem;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+#password-field {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.main-navbar{
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+    text-align: center;
+}
+#post-create-box{
+    display: grid;
+    grid-template-columns: 33% 34% 33%;
+
+}
+#post-title{
+    margin-left: 5%;
+}
+#img-link{
+    margin-left: 10%;
+}
+#create-post-btn{
+    margin-left: 20%;
+    margin-right: 5%;
+}
+
+.post-card {
+    margin-top: 2rem;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+
+.img-and-name {
+    display: grid;
+    grid-template-columns: 5rem 20%;
+}
+
+.profile-img {
+    height: 5rem;
+    width: 5rem;
+    object-fit: cover;
+}
+
+.profile-name {
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+
+.post-text {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.post-img {
+    height: 20rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.likes {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+
+
